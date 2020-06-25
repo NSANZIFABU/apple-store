@@ -1,4 +1,4 @@
-## Youtube video player:
+## Apple store web page
 
 This project consists of building an apple store that looks like https://web.archive.org/web/20140301004610/http://www.apple.com/.
 
@@ -18,3 +18,14 @@ This project consists of building an apple store that looks like https://web.arc
 ### Raising an issue
 
 Click [here](https://github.com/mujohn26/apple-store/issues) to create an issue about this app
+
+## Developer Social Links
+* [Github](https://github.com/mujohn26)
+* [Linkedin](https://www.linkedin.com/in/john-mugiraneza/)
+* [Twitter](https://twitter.com/mugiraneza1)
+
+
+
+## License
+[MIT]
+
